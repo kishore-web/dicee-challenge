@@ -19,12 +19,12 @@ h1 {
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
-  color: #4ECCA3;
+  color: #cc4ebf;
 }
 
 p {
   font-size: 2rem;
-  color: #4ECCA3;
+  color: #cc4ebf;
   font-family: 'Indie Flower', cursive;
 }
 
@@ -36,7 +36,7 @@ button {
   display: flex;
   align-items: center;
   border: none;
-  background-color: #4ECCA3;
+  background-color: #cc4ebf;
   color: white;
   padding: 10px;
   border-radius: 4px;
